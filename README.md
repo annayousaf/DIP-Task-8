@@ -1,2 +1,3 @@
 # DIP-Task-8
 Task 08
+Develop a Python program using OpenCV, NumPy, Matplotlib, and scikit-image to perform image restoration on a user-uploaded grayscale image. The program should allow the user to upload an image at runtime and then simulate different image degradations, including Gaussian noise, Salt & Pepper noise, and motion blur. Apply appropriate restoration techniques such as Wiener filtering and Median filtering to recover the degraded images. Compute and compare the Peak Signal-to-Noise Ratio (PSNR) values for each restoration method. Display the original, degraded, and restored images side by side, and analyze the results to determine the most effective restoration method for each type of noise.
